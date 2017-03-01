@@ -36,3 +36,6 @@ Research on The Impact of Road Traffic Around on Opening Residential Community B
 运行main.m:
 
 ![Markdown](http://p1.bqimg.com/1949/e04b58696808edc5.gif)
+
+部分结果:
+![Markdown](http://p1.bqimg.com/1949/82749e438c295b45.png)
