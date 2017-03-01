@@ -1,5 +1,7 @@
 # Cellular-Automata-Traffic-Simulation
 Research on The Impact of Road Traffic Around on Opening Residential Community Based on Cellular Automaton
+基于元胞自动机的城市小区开放对周边道路通行的影响研究
+
 
 编写环境:Matalab R2016a
 已在Matalab R2014a中测试,可以正常运行.
