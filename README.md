@@ -38,7 +38,7 @@ Research on The Impact of Road Traffic Around on Opening Residential Community B
 
 运行main.m
 
-不同的校区开放情况下产生的结果: https://yanring-1252048839.cos.ap-guangzhou.myqcloud.com/img/2019-02-23-11.40.16.gif
+不同的小区开放情况下产生的结果: https://yanring-1252048839.cos.ap-guangzhou.myqcloud.com/img/2019-02-23-11.40.16.gif
 
 ![](https://github.com/yanring/Cellular-Automata-Traffic-Simulation/blob/master/2019-02-23-11.40.16.gif)
 
