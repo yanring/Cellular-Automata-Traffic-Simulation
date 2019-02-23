@@ -36,9 +36,8 @@ Research on The Impact of Road Traffic Around on Opening Residential Community B
 
 参数：diff_xiaoqu_size不同小区的大小数组，默认为diff_xiaoqu_size=[25 50 70]。主路长度与小区边长的默认比值为1.4
 
-运行main.m(gif:http://p1.bqimg.com/1949/e04b58696808edc5.gif):
-![Markdown](http://p1.bqimg.com/1949/e04b58696808edc5.gif)
+运行main.m
 
-部分结果:
+不同的校区开放情况下产生的结果:
+![](https://yanring-1252048839.cos.ap-guangzhou.myqcloud.com/img/2019-02-23 11.40.16.gif)
 
-![Markdown](http://p1.bqimg.com/1949/82749e438c295b45.png)
