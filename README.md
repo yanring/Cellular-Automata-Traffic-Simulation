@@ -1,6 +1,6 @@
 # Cellular-Automata-Traffic-Simulation
-Research on The Impact of Road Traffic Around on Opening Residential Community Based on Cellular Automaton
-基于元胞自动机的城市小区开放对周边道路通行的影响研究
+Research on The Impact of Road Traffic Around on Opening Residential Community Based on Cellular Automaton  
+基于元胞自动机的城市小区开放对周边道路通行的影响研究  
 
 本题为2016年高教杯数学建模大赛B题代码，获国家一等奖
 
